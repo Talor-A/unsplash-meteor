@@ -1,0 +1,13 @@
+{
+  "name": "unsplash",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "6.18.0",
+    "meteor-node-stubs": "~0.2.0",
+    "unsplash-api": "^1.2.0",
+    "unsplash-js": "^4.3.1"
+  }
+}
